@@ -1,0 +1,1 @@
+Upload index.html, manifest.webmanifest and sw.js to your GitHub repository root. Settings > Pages > Deploy from a branch > main / (root) > Save. The calculator can then be opened at https://USERNAME.github.io/antolin-production-calculator/ .
